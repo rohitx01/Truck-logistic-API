@@ -32,15 +32,16 @@ const OMenus = () => {
       <Link
         className="list-group-item list-group-item-action"
         tag="a"
-        to="#!"
+        to="/about"
         action
       >
         About
       </Link>
+
       <Link
         className="list-group-item list-group-item-action"
         tag="a"
-        to="#!"
+        to="/contact"
         action
       >
         Contact
